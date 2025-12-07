@@ -1,9 +1,6 @@
 import string
 from base64 import b64encode, b64decode
 
-print("=" * 80)
-print("ENCRYPTED EVIDENCE DECRYPTION - CORRECT APPROACH")
-print("=" * 80)
 
 # Read the intercepted ciphertext
 try:
